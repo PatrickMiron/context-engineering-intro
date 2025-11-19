@@ -1,0 +1,13 @@
+# Pydantic AI and dependencies
+pydantic-ai==0.0.14
+pydantic==2.10.3
+pydantic-settings==2.6.1
+
+# Environment management
+python-dotenv==1.0.1
+
+# LLM providers
+openai==1.57.2
+
+# Optional: For advanced color contrast calculations
+colorsys==0.1.0  # Built-in, included for reference
